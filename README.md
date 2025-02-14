@@ -33,6 +33,7 @@ I'm a passionate full-stack developer and digital creator from Portugal with a d
   <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" style="margin: 0 5px;" />
   <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" style="margin: 0 5px;" />
   <img src="https://img.shields.io/badge/SQLite-%23003B57.svg?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" style="margin: 0 5px;" />
+  <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white" alt="Django" style="margin: 0 5px;" />
 </p>
 
 <p align="center">
